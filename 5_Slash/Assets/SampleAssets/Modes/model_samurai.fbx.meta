@@ -1,0 +1,210 @@
+fileFormatVersion: 2
+guid: 0379fa9ebf3e14d47adb69e2dab3db8d
+timeCreated: 1495035668
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: c_ashi_l
+    100002: c_ashi_r
+    100004: c_dou_00
+    100006: c_hiji_l
+    100008: c_hiji_r
+    100010: c_kami_01
+    100012: c_kami_02
+    100014: c_kami_03
+    100016: c_kao_01
+    100018: c_kao_02
+    100020: c_kata_l
+    100022: c_kata_r
+    100024: c_katana
+    100026: c_loc_katana
+    100028: c_loc_saya
+    100030: c_momo_l
+    100032: c_momo_r
+    100034: c_moto_00
+    100036: c_saya
+    100038: c_te_l
+    100040: c_te_r
+    100042: chibi
+    100044: dekaino
+    100046: dou_00
+    100048: f_ashi_l_01
+    100050: f_ashi_l_02
+    100052: f_ashi_l_03
+    100054: f_ashi_r_01
+    100056: f_ashi_r_02
+    100058: f_ashi_r_03
+    100060: f_taiya_l_01
+    100062: f_taiya_r_01
+    100064: face
+    100066: hata
+    100068: hiji_l
+    100070: hiji_r
+    100072: ikHandle1
+    100074: ikHandle2
+    100076: ikHandle3
+    100078: ikHandle4
+    100080: ikHandle5
+    100082: kata_l
+    100084: kata_r
+    100086: katana_l_00
+    100088: katana_l_01
+    100090: katana_r_00
+    100092: katana_r_01
+    100094: loc_hata
+    100096: loc_katana_l
+    100098: loc_katana_r
+    100100: loc_saya_l
+    100102: loc_saya_r
+    100104: //RootNode
+    100106: moto_00
+    100108: r_ashi_01
+    100110: r_ashi_02
+    100112: r_ashi_03
+    100114: r_taiya
+    100116: samurai_chibi_00
+    100118: samurai_deka_00
+    100120: saya_l
+    100122: saya_r
+    100124: te_l
+    100126: te_r
+    400000: c_ashi_l
+    400002: c_ashi_r
+    400004: c_dou_00
+    400006: c_hiji_l
+    400008: c_hiji_r
+    400010: c_kami_01
+    400012: c_kami_02
+    400014: c_kami_03
+    400016: c_kao_01
+    400018: c_kao_02
+    400020: c_kata_l
+    400022: c_kata_r
+    400024: c_katana
+    400026: c_loc_katana
+    400028: c_loc_saya
+    400030: c_momo_l
+    400032: c_momo_r
+    400034: c_moto_00
+    400036: c_saya
+    400038: c_te_l
+    400040: c_te_r
+    400042: chibi
+    400044: dekaino
+    400046: dou_00
+    400048: f_ashi_l_01
+    400050: f_ashi_l_02
+    400052: f_ashi_l_03
+    400054: f_ashi_r_01
+    400056: f_ashi_r_02
+    400058: f_ashi_r_03
+    400060: f_taiya_l_01
+    400062: f_taiya_r_01
+    400064: face
+    400066: hata
+    400068: hiji_l
+    400070: hiji_r
+    400072: ikHandle1
+    400074: ikHandle2
+    400076: ikHandle3
+    400078: ikHandle4
+    400080: ikHandle5
+    400082: kata_l
+    400084: kata_r
+    400086: katana_l_00
+    400088: katana_l_01
+    400090: katana_r_00
+    400092: katana_r_01
+    400094: loc_hata
+    400096: loc_katana_l
+    400098: loc_katana_r
+    400100: loc_saya_l
+    400102: loc_saya_r
+    400104: //RootNode
+    400106: moto_00
+    400108: r_ashi_01
+    400110: r_ashi_02
+    400112: r_ashi_03
+    400114: r_taiya
+    400116: samurai_chibi_00
+    400118: samurai_deka_00
+    400120: saya_l
+    400122: saya_r
+    400124: te_l
+    400126: te_r
+    4300000: dekaino
+    4300002: chibi
+    9500000: //RootNode
+    13700000: chibi
+    13700002: dekaino
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 40
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
